@@ -1,0 +1,7 @@
+D:\TapokBlockerCsharp\TapokBlock.pdb
+D:\TapokBlockerCsharp\D3DCompiler_47_cor3.dll
+D:\TapokBlockerCsharp\PenImc_cor3.dll
+D:\TapokBlockerCsharp\PresentationNative_cor3.dll
+D:\TapokBlockerCsharp\vcruntime140_cor3.dll
+D:\TapokBlockerCsharp\wpfgfx_cor3.dll
+D:\TapokBlockerCsharp\TapokBlock.exe

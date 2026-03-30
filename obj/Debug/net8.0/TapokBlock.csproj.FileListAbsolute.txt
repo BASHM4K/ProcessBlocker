@@ -1,0 +1,14 @@
+C:\Users\Pidoras\CascadeProjects\TapokBlock\bin\Debug\net8.0\TapokBlock.exe
+C:\Users\Pidoras\CascadeProjects\TapokBlock\bin\Debug\net8.0\TapokBlock.deps.json
+C:\Users\Pidoras\CascadeProjects\TapokBlock\bin\Debug\net8.0\TapokBlock.runtimeconfig.json
+C:\Users\Pidoras\CascadeProjects\TapokBlock\bin\Debug\net8.0\TapokBlock.dll
+C:\Users\Pidoras\CascadeProjects\TapokBlock\bin\Debug\net8.0\TapokBlock.pdb
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.AssemblyInfoInputs.cache
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.AssemblyInfo.cs
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.csproj.CoreCompileInputs.cache
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.dll
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\refint\TapokBlock.dll
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.pdb
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\TapokBlock.genruntimeconfig.cache
+C:\Users\Pidoras\CascadeProjects\TapokBlock\obj\Debug\net8.0\ref\TapokBlock.dll
