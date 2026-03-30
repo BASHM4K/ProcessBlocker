@@ -1,3 +1,4 @@
+This is AI code
 # TapokBlock - Process Blocker
 
 A C# application for managing Windows process execution through Registry settings.
